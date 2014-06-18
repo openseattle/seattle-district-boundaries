@@ -8,4 +8,5 @@ The remaining two positions will be elected "at-large" (city-wide) in positions 
 
 [More info from seattle.gov](http://www.seattle.gov/cityclerk/municipal-code-and-city-charter/district-elections-map)
 
-Source: https://www.google.com/fusiontables/data?docid=1W3HH4-zFFhuo4iA2QBxQqBkHiANJbZb51lHG-GBp#map:id=3
+Source: https://www.google.com/fusiontables/DataSource?docid=1-slpfM2QP5SaPOjwan3QUS5JKOJhxUZv9ZUwqQY_#rows:id=1
+(Cartography & Geometry by Trevor Wong / King County GIS Center)
